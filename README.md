@@ -20,12 +20,13 @@ I strive to learn and grow everyday and am always curious and hungry for knowled
 
 ### 🚀 Projects
 
-#### 🌐 [Open Neural Network Exchange (ONNX) - Open Source Contribution](https://github.com/onnx/ir-py/blob/main/src/onnx_ir/passes/common/initializer_deduplication.py)
+#### 🌐 [Open Neural Network Exchange (ONNX) - Open Source Contribution](https://github.com/onnx/ir-py/blob/main/src/onnx_ir/passes/common/initializer_deduplication.py) | [ONNX Test File](https://github.com/onnx/ir-py/blob/main/src/onnx_ir/passes/common/initializer_deduplication_test.py)
 • Developed a graph optimization pass in ONNX's Intermediate Representation repository that deduplicates model weights, thus reducing model size by up to 30%.
 
 • Achieved this by eliminating redundant tensors via dtype, shape and content hashing, thus ensuring thorough unit test coverage across diverse edge cases.
 
-#### 🏜️ [The Nest](https://drive.google.com/file/d/1D5SqWgR-jVtWdPRtA9yY2Al0yCZi1MGd/view?usp=sharing)
+#### 🏜️ [The Nest – Android Application](https://drive.google.com/file/d/1D5SqWgR-jVtWdPRtA9yY2Al0yCZi1MGd/view?usp=sharing) | [Hardware + ML Model](https://drive.google.com/file/d/1smfn5dvDuSpqYY7pDWM8W3WxB1CQm5bB/view?usp=sharing)
+
 • Built an Android-based infant monitoring system to reduce the risk of Sudden Infant Death Syndrome (SIDS) by detecting unsafe sleep postures and tracking environmental vitals.
 
 • Achieved this by training a custom MobileNetV2 model on over 2000 images (99.32% accuracy).
@@ -74,7 +75,9 @@ I strive to learn and grow everyday and am always curious and hungry for knowled
 
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/abhishek-herbert-samuel-9aa11921a) 
+
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:abhishekherbertsamuel@gmail.com)  
+
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/AbhishekHerbertSamuel)
 
 ---
@@ -82,7 +85,6 @@ I strive to learn and grow everyday and am always curious and hungry for knowled
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbhishekHerbertSamuel&show_icons=true&theme=default&hide_title=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekHerbertSamuel&layout=compact&theme=default" height="170">
 </p>
 
 ---
