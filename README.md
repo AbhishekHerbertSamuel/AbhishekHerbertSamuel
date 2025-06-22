@@ -1,70 +1,84 @@
-# Abhishek Herbert Samuel
+# Hi there, I'm Abhishek Herbert Samuel 👋
 
-**Graduating CS Engineer (IoT) | AI & Systems Enthusiast | Builder @ Edge & Cloud Scale**
-
-Hi! I'm Abhishek, a final-year B.Tech Computer Science & Engineering (IoT) student at Shiv Nadar University, Chennai — graduating July 2025.  
-I'm passionate about building systems that solve real-world problems using AI, distributed architectures, and embedded intelligence.
+**Software Engineer | B.Tech CSE (IoT) '25 @ Shiv Nadar University, Chennai**  
+**4x NPTEL Topper | 2x Hackathon Finalist**
 
 ---
 
-## 📌 Projects
+### 🌟 About Me
+I am a B. Tech graduate from Shiv Nadar University, Chennai's founding batch (Class of 2025) with a degree in Computer Science and Engineering (Internet of Things).
 
-### [🛏️ The Nest](https://github.com/AbhishekHerbertSamuel/The-Nest)
-Real-time infant posture detection system to help prevent SIDS.  
-Built using TensorFlow Lite, Raspberry Pi, and an Android app.  
-- 99.32% validation accuracy on a custom MobileNetV2 model  
-- 3MB quantized model deployed for offline edge inference  
-- Real-time vitals & alerts via mobile UI
+The world of technology with its infinite possibilities has always fascinated me. I enjoy tinkering with computers and am currently exploring Full-Stack Development, Machine Learning, Generative AI, Data Science, Data Analytics and IoT.
 
-### [📰 Veritas Aequitas](https://github.com/AbhishekHerbertSamuel/Veritas-Aequitas---A-Fake-News-Detection-System-for-the-21st-century)
-Fake news detector trained on 44,000+ samples  
-- TF-IDF + Naive Bayes (94% accuracy)  
-- Flask-based UI with real-time inference  
-- Dockerized and deployed via Render CI/CD
+Community-oriented leadership is something that I am passionate about. This passion led me to serve as the Co-Founder and Club Representative of my alma mater's Business Club for nearly 4 years, where I learnt the art of fundraising, marketing and running a large scale event end to end.
+
+I have also served as my class's Founding Class Representative and represented my university as a Student Ambassador and NSS Volunteer.
+
+In addition to these pursuits, I am a trained western classical vocalist, pianist and an award-winning orator.
+
+I strive to learn and grow everyday and am always curious and hungry for knowledge.
 
 ---
 
-## 🛠️ Skills & Technologies
+### 🚀 Highlight Projects
 
-**Languages:**  
-Python, Java, JavaScript, SQL, Kotlin, HTML, CSS
+#### 🏜️ [The Nest](https://drive.google.com/file/d/1D5SqWgR-jVtWdPRtA9yY2Al0yCZi1MGd/view?usp=sharing)
+AI-powered infant monitoring system for detecting unsafe sleep postures using edge ML.
+- TensorFlow Lite model (99.32% accuracy)
+- Deployed on Raspberry Pi Zero with Android App UI
 
-**Frameworks & Tools:**  
-TensorFlow, Spring Boot, Flask, React, Angular, Android Studio, Docker, Jenkins, Git
+#### 📰 [Veritas Aequitas](https://github.com/AbhishekHerbertSamuel/Veritas-Aequitas---A-Fake-News-Detection-System-for-the-21st-century)
+Fake news detector built on the ISOT dataset (44K+ samples).
+- TF-IDF + Naive Bayes
+- Flask + Docker + Render CI/CD
 
-**Platforms & Infra:**  
-Linux, Raspberry Pi, AWS, Render
-
-**Domains:**  
-Machine Learning, MLOps, Edge Inference, Backend Development, IoT, Distributed Systems
-
----
-
-## 🧠 Achievements
-
-- **4× NPTEL Topper:** Ranked in top 1–5% across 4 advanced CS courses from IITs
-- **2× Hackathon Finalist:** Anna University (Top 4) & VIT HackOverflow
-- **Leadership:** Co-founder of SNUC Business Club, Class Representative, Overall Event Head – NOVA'23
+#### 🌐 [ONNX IR Contribution](https://github.com/onnx/ir-py/pull/67)
+Contributed a graph optimization pass to the ONNX Intermediate Representation:
+- Deduplicates initializer tensors to reduce model size
+- Integrated into ONNX IR main branch (PR #67)
 
 ---
 
-## 📈 GitHub Stats
-
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhishekHerbertSamuel&show_icons=true&hide_title=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekHerbertSamuel&layout=compact&theme=default)
-
----
-
-## 📬 Let’s Connect
-
-- 📧 abhishekherbertsamuel@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-herbert-samuel-9aa11921a/)  
-- 📄 [Resume](https://drive.google.com/file/d/1D5SqWgR-jVtWdPRtA9yY2Al0yCZi1MGd/view)  
+### 💡 Skills & Tools
+**Languages:** Python, Java, JavaScript, SQL, Kotlin  
+**Frameworks:** TensorFlow, Spring Boot, Flask, Angular, React  
+**Infra & Tools:** Docker, Git, Jenkins, PostgreSQL, Raspberry Pi  
+**Domains:** Edge AI, Fullstack Dev, IoT, DevOps, Open Source
 
 ---
 
-## 👁️ Visitor Count
+### 🎓 Education & Certifications
+- **Shiv Nadar University, Chennai** – B.Tech CSE (IoT), CGPA: 8.765/10
+- **Certifications:** Google AI Essentials, Stanford ML Specialization, Infosys Java, 4x NPTEL Topper
 
-![Visitor Count](https://profile-counter.glitch.me/AbhishekHerbertSamuel/count.svg)
+---
+
+### 👏 Achievements
+- 🏅 4-time **NPTEL Topper**: Top 1–5% in 4 advanced CS courses
+- 🏆 2-time **Hackathon Finalist**: Anna University, VIT Chennai
+- 🧳‍♂️ **Leadership**: Co-founder & Club Rep, Business Club SNUC; NSS Volunteer; Student Ambassador
+- 🌟 **Awarded** by the Hon'ble Governor of Tamil Nadu for oratory excellence
+
+---
+
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/abhishek-herbert-samuel-9aa11921a) 
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:abhishekherbertsamuel@gmail.com)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/AbhishekHerbertSamuel)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekHerbertSamuel&show_icons=true&theme=default&hide_title=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekHerbertSamuel&layout=compact&theme=default" height="170">
+</p>
+
+---
+
+### 📈 Visitor Count
+<p align="center">
+  <img src="https://profile-counter.glitch.me/AbhishekHerbertSamuel/count.svg" />
+</p>
+
 
