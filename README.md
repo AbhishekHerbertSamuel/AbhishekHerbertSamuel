@@ -82,13 +82,6 @@ I strive to learn and grow everyday and am always curious and hungry for knowled
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekHerbertSamuel&show_icons=true&count_private=true&hide_title=true&hide=stars&theme=default" alt="Abhishek's GitHub Stats">
-</p>
-
-
 ---
 
 ### 📈 Visitor Count
