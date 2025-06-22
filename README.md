@@ -82,8 +82,6 @@ I strive to learn and grow everyday and am always curious and hungry for knowled
 
 ---
 
----
-
 ### 📈 Visitor Count
 <p align="center">
   <img src="https://profile-counter.glitch.me/AbhishekHerbertSamuel/count.svg" />
