@@ -65,7 +65,7 @@ I strive to learn and grow everyday and am always curious and hungry for knowled
 
 - 🏆 **2-time Hackathon Finalist**: Anna University’s IT for Public Good Hackathon (Top 4) and VIT’s HackOverflow.
 
-- **Leadership**: Co-Founder and Club Representative, SNUC Business Club; Overall Event Head, NOVA’23; Student Ambassador and Class Representative, SNU Chennai.
+- 🌟 **Leadership**: Co-Founder and Club Representative, SNUC Business Club; Overall Event Head, NOVA’23; Student Ambassador and Class Representative, SNU Chennai.
 
 - 🌟 **Felicitated** by the Governor of Tamil Nadu for securing 2nd place in an elocution competition; 2nd prize winner in the **Virtuoso International Piano Competition** (600+ participants from over 7 countries).
 
