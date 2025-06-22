@@ -20,7 +20,7 @@ I strive to learn and grow everyday and am always curious and hungry for knowled
 
 ### 🚀 Projects
 
-#### 🌐 [Open Neural Network Exchange (ONNX) - Open Source Contribution](https://github.com/onnx/ir-py/blob/main/src/onnx_ir/passes/common/initializer_deduplication.py) | [ONNX Test File](https://github.com/onnx/ir-py/blob/main/src/onnx_ir/passes/common/initializer_deduplication_test.py)
+#### 🌐 [Open Neural Network Exchange (ONNX) - Open Source Contribution (Main File)](https://github.com/onnx/ir-py/blob/main/src/onnx_ir/passes/common/initializer_deduplication.py) | [ONNX Test File](https://github.com/onnx/ir-py/blob/main/src/onnx_ir/passes/common/initializer_deduplication_test.py)
 • Developed a graph optimization pass in ONNX's Intermediate Representation repository that deduplicates model weights, thus reducing model size by up to 30%.
 
 • Achieved this by eliminating redundant tensors via dtype, shape and content hashing, thus ensuring thorough unit test coverage across diverse edge cases.
