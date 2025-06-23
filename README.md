@@ -1,6 +1,6 @@
 # Hi there, I'm Abhishek Herbert Samuel 👋
 
-**Software Engineer | B.Tech CSE (IoT) '25 @ Shiv Nadar University, Chennai | 4x NPTEL Topper | 2x Hackathon Finalist | 30K+ Impressions on LinkedIn**
+**Software Engineer | B.Tech CSE (IoT) '25 @ Shiv Nadar University, Chennai | 4x NPTEL Topper | 2x Hackathon Finalist**
 
 ---
 
