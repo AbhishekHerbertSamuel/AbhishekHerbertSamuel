@@ -3,20 +3,6 @@
 **Software Engineer | B.Tech CSE (IoT) '25 @ Shiv Nadar University, Chennai | 4x NPTEL Topper | 2x Hackathon Finalist | 30K+ Impressions on LinkedIn**
 
 ---
-### 🌟 About Me
-I am a B. Tech graduate from Shiv Nadar University, Chennai's founding batch (Class of 2025) with a degree in Computer Science and Engineering (Internet of Things).
-
-The world of technology with its infinite possibilities has always fascinated me. I enjoy tinkering with computers and am currently exploring Full-Stack Development, Machine Learning, Generative AI, Data Science, Data Analytics and IoT.
-
-Community-oriented leadership is something that I am passionate about. This passion led me to serve as the Co-Founder and Club Representative of my alma mater's Business Club for nearly 4 years, where I learnt the art of fundraising, marketing and running a large scale event end to end.
-
-I have also served as my class's Founding Class Representative and represented my university as a Student Ambassador and NSS Volunteer.
-
-In addition to these pursuits, I am a trained western classical vocalist, pianist and an award-winning orator.
-
-I strive to learn and grow everyday and am always curious and hungry for knowledge.
-
----
 
 ### 🚀 Projects
 
