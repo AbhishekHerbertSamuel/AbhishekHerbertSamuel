@@ -5,6 +5,10 @@
 ---
 
 ### 🚀 Projects
+#### 🌐 [OpenRewrite – Open Source Contribution](https://github.com/openrewrite/rewrite-static-analysis/pull/598/commits/05d35c28fe096b9d71e00d00a0a68f367a3c21d7)
+• Resolved a critical ClassCastException by extending support for nested exception types (J.FieldAccess) in OpenRewrite’s Java refactoring engine.
+
+• Enhanced the CombineSemanticallyEqualCatchBlocks module to safely merge catch blocks with identical logic, thus ensuring 100% unit test coverage across 30+ edge cases.
 
 #### 🌐 [Open Neural Network Exchange (ONNX) - Open Source Contribution](https://github.com/onnx/ir-py/commit/d8fa01187999728fcf1b44b6db9c78f5db994f87)
 • Developed a graph optimization pass in ONNX's Intermediate Representation repository that deduplicates model weights, thus reducing model size by up to 30%.
