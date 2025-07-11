@@ -72,9 +72,5 @@
 
 ---
 
-### 📈 Visitor Count
-<p align="center">
-  <img src="https://profile-counter.glitch.me/AbhishekHerbertSamuel/count.svg" />
-</p>
 
 
